@@ -70,3 +70,4 @@ onst chores = ['wash dishes', 'do laundry', 'take out trash', 'cook dinner', 'mo
 
 
 chores.pop();
+console.log(chores); 
