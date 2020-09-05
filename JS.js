@@ -92,3 +92,7 @@ roceryList.unshift('popcorn');
 console.log(groceryList);
 
 console.log(groceryList.slice(1,4));
+
+console.log(groceryList);
+const  pastaIndex = groceryList.indexOf('pasta');
+console.log(pastaIndex);
