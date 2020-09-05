@@ -20,3 +20,6 @@ console.log(condiments);
 condiments = ['Mayo'];
 utensils[3] = 'Spoon';
 console.log(utensils[3])
+
+const objectives = ['Learn a new languages', 'Read 52 books', 'Run a marathon'];
+console.log(objectives.length);
