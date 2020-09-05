@@ -87,3 +87,6 @@ Below, we will explore some methods that we have not learned yet. We will use th
 const groceryList = ['orange juice', 'bananas', 'coffee beans', 'brown rice', 'pasta', 'coconut oil', 'plantains'];
 groceryList.shift();
 console.log(groceryList);
+
+roceryList.unshift('popcorn');
+console.log(groceryList);
