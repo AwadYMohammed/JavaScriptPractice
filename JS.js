@@ -65,3 +65,8 @@ In the example above, calling .pop() on the newItemTracker array removed item 2 
 .pop() returns the value of the last element. In the example, we store the returned value in a variable removed to be used for later.
 .pop() is a method that mutates the initial array.
 When you need to mutate an array by removing the last element, use .pop().*/
+
+onst chores = ['wash dishes', 'do laundry', 'take out trash', 'cook dinner', 'mop floor'];
+
+
+chores.pop();
