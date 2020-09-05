@@ -45,3 +45,4 @@ If you’re looking for a method that will mutate an array by adding elements to
 
 const chores = ['wash dishes', 'do laundry', 'take out trash'];
 chores.push('item 3', 'item 4');
+console.log(chores);
