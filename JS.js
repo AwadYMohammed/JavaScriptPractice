@@ -210,3 +210,4 @@ Nest an array within an array.
 Access an element in the nested array.
 
 */
+let vacationSpots = ["A","B","C"];
