@@ -211,3 +211,5 @@ Access an element in the nested array.
 
 */
 let vacationSpots = ["A","B","C"];
+let groceryList = ['orange juice', 'bananas', 'coffee beans', 'brown rice', 'pasta', 'coconut oil', 'plantains'];
+
