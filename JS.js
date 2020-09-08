@@ -212,4 +212,22 @@ Access an element in the nested array.
 */
 let vacationSpots = ["A","B","C"];
 let groceryList = ['orange juice', 'bananas', 'coffee beans', 'brown rice', 'pasta', 'coconut oil', 'plantains'];
+/**********
 
+
+
+
+
+**************/
+const checkThatTwoPlusTwoEqualsFourAMillionTimes = () => {
+  for(let i = 1; i <= 1000000; i++) {
+    if ( (2 + 2) != 4) {
+      console.log('Something has gone very wrong :( ');
+    }
+  }
+}
+
+// Write your code below
+const is2p2  = checkThatTwoPlusTwoEqualsFourAMillionTimes;
+
+is2p2();
