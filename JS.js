@@ -218,7 +218,7 @@ let groceryList = ['orange juice', 'bananas', 'coffee beans', 'brown rice', 'pas
 
 
 
-**************/
+************************/ 
 const checkThatTwoPlusTwoEqualsFourAMillionTimes = () => {
   for(let i = 1; i <= 1000000; i++) {
     if ( (2 + 2) != 4) {
